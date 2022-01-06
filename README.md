@@ -1,9 +1,9 @@
 # Encryption-Toggle-for-7zip
-One click encryption/extraction of user specified files and or folders using [7-Zip](https://www.7-zip.org/) program, to use my program 7-zip needs to be installed.
+One click encryption/extraction of user specified files and or folders using the [7-Zip](https://www.7-zip.org/) program. To use this program 7-zip needs to be installed.
 On execution the program will ask the user to input a password and encrypt your selection and clean up after itself. When run again the user needs to provide the correct password again after which everything will be restored.
 
 # Usage
-The ```ET7.exe``` file needs to be placed alongside the ```variables.cfg``` configuration file in order to work. Please state your preferences as follows:
+The ```ET7.exe``` file needs to be placed alongside the ```variables.cfg``` configuration file inside the directory that contains the files and folders you want to encrypt. Please state your preferences as follows:
 ```
 # Specify the file(s) (type(s)) and or folders you wish to encrypt seperated by a space. 
 # Only use line 3 (next line).
