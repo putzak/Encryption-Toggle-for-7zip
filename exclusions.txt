@@ -1,0 +1,2 @@
+ET7.exe
+variables.cfg
